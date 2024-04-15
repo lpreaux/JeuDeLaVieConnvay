@@ -4,7 +4,7 @@ Diginamic
 
 Porposition de correction
 
-[Ennoncé du TP ici]()
+[Ennoncé du TP ici](https://github.com/lpreaux/JeuDeLaVieConnvay/blob/main/TP%20-%20Autonomie%20-%20J2%20-%20Jeu%20de%20la%20Vie%20de%20Conway%20(2).pdf)
 
 ## Execution
 
